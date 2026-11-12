@@ -43,7 +43,7 @@ Synthetic data with 1,000 rows and these columns: Subject_ID, Site_ID, Age, Gend
 
 ## Files
 
-- `data/raw_clinical_trial_data.csv`: raw synthetic dataset 
+- `dataset/raw_clinical_trial_data.csv`: raw synthetic dataset 
 - `clinical_trial_excel_analytics.xlsx`: Excel analysis and dashboard
 - `clinical_trials_analytics.sql`: SQL script
 - `clinical_trials_dashboard_pbi.pbix`: Power BI dashboard
